@@ -12,4 +12,4 @@ print(f"Sum of digits: {total_sum}")
 print(f"Average of digits: {average}")
 
 
-print("hello")
+print("hello hello")
